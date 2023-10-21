@@ -1,0 +1,1 @@
+voronoi(3,6,5).modulateScrollY(osc(10),0.05,3).colorama(3).layer(osc(30,0.3,2).mask(shape(6).scale(3))).rotate( () => time%360).scale(0.35).out(o0)
